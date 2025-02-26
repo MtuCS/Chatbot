@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+msal
+openai
+chromadb
+python-dotenv
+PyMuPDF
